@@ -1,4 +1,5 @@
-body{background-color: #FBF8F1;}
+body{background-color:#E9DAC1 ;
+text-align: center;}
 
   hr{
 border-style:dotted none none;
@@ -8,3 +9,11 @@ border-width: 10px;
 h1{color: #54BAB9;}
 h3{color: #54BAB9;}
 h2{color: #54BAB9;}
+.first{background-color: #FBF8F1;
+width: 80%;
+
+margin-left: 120px;
+padding-bottom: 1px;
+
+}
+.bb{font-family:'Merriweather',cursive;}
